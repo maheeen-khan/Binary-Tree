@@ -1,5 +1,5 @@
 // Binary Search Tree. 
-//Implement Insertion and Searching Algorithms.
+//Maximum and Minimum function has also been added.
 #include<stdio.h>
 #include<iostream>
 #include<stdlib.h>
